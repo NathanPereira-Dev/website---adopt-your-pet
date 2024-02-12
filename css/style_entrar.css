@@ -46,6 +46,7 @@ body {
 }
 
 .form-header {
+    margin: auto;
     margin-bottom: 3rem;
     display: flex;
     justify-content: space-between;
